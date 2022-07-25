@@ -1,6 +1,6 @@
 # Python_For_Datascience
 
-##important Libraries For DataScience
+#important Libraries For DataScience
 
 Numpy - Efficient N - dimensional arrays, Linear algebra ,random number capabilities
 
