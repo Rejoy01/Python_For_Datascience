@@ -8,7 +8,7 @@ Scipy - Scientific computing tools like calculus,signal processing
 
 Pandas - Data reading (multiple formats),Manipulation and cleaning in Python
 
-Matplotlib - Fundamental library for data visualization in pyhon
+Matplotlib - Fundamental library for data visualization in python
 
 Seaborn - Built on top Matplotlib , it provides a High-level interface for drawing attractive and informative charts
 
